@@ -1,6 +1,10 @@
 # TeamPulse - Human Resources Management System (Backend)
 
-Welcome to TeamPulse, a cutting-edge Human Resources Management System developed as the pinnacle project of the BilgeAdam Boost Training Program. TeamPulse aims to revolutionize how businesses manage their workforce and streamline HR processes.
+## Database Diagram
+![image](https://github.com/firatbezir/HRAppBackend/assets/51786059/c0b517f0-b6fe-4076-b10f-314b6af07115)
+
+
+Welcome to TeamPulse, a nicely designed Human Resources Management System developed as the pinnacle project of the BilgeAdam Boost Training Program. TeamPulse aims to ease how businesses manage their workforce and streamline HR processes.
 
 ## Key Features
 
